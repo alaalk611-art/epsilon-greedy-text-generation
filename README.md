@@ -52,4 +52,3 @@ Several metrics are used to evaluate the quality of generated text:
 
 ---
 
-Example evaluation outputs:
