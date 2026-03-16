@@ -1,0 +1,8 @@
+Dataset,Prompt,Epsilon,k,Diversity,MAUVE,Generated Length,Coherence,Generated_Text
+wikitext,Prompt 1,0.5,5,1.77,4.91,193.86,-0.40699464,Generated example text
+
+Dataset,Prompt,Epsilon,k,Diversity,MAUVE,Generated Length,Coherence,Generated_Text
+wikinews,Prompt 1,0.5,5,3.55,13.96,195.23,-0.46745995,Generated example text
+
+Dataset,Prompt,Epsilon,k,Diversity,MAUVE,Generated Length,Coherence,Generated_Text
+book,Prompt 1,0.5,5,86,2.65,194.33,-0.336219,Generated example text

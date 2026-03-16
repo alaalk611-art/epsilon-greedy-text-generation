@@ -1,0 +1,351 @@
+[{
+        "epsilon": 0.1,
+        "k": 1,
+        "scores": {
+            "coherence_mean": -11.176169395446777,
+            "diversity": 0.07482993197278912,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.1,
+        "k": 3,
+        "scores": {
+            "coherence_mean": -10.09544563293457,
+            "diversity": 0.477124183006536,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, a young man was born. He lived in an old village, and his parents were poor. He was raised by a rich family, but his father died when he was only three years old. The family had been in exile for a while,",
+            "Once upon a time, in a faraway kingdom, there were many people who were not of the same race, but were united by their own faith, and who had been brought up by the Lord, and were now in the midst of their own faith and faithfulness, and were now ready to",
+            "Once upon a time, in a faraway kingdom, a man who had been born into a family of thieves, had a son, and a daughter. The father was a great man, a great man, and the mother was a beautiful woman. The son, who had been born into the family"
+        ]
+    },
+    {
+        "epsilon": 0.1,
+        "k": 5,
+        "scores": {
+            "coherence_mean": -9.272369066874186,
+            "diversity": 0.32679738562091504,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the land was not the only one.\n\nAnd the king of the land, the son of Man, was king of all the land; and he said unto him, Behold, my father's house is in my name",
+            "Once upon a time, in a faraway kingdom of the stars, the gods and goddesses of the land of the stars, the gods of the land of the stars, the gods of the land of the stars, they will be able to make a pact with each other, and they will make",
+            "Once upon a time, in a faraway kingdom, a king was sent to the city of the king of the kings of the world, and he was sent to the king of the kings of the world, and he was sent to the king of the kings of the world, and he was sent"
+        ]
+    },
+    {
+        "epsilon": 0.1,
+        "k": 10,
+        "scores": {
+            "coherence_mean": -11.508855819702148,
+            "diversity": 0.535483870967742,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, where the king could not possibly have known the true nature of life, he was forced to flee. But, with the help of the Lord, the Lord's servants and his people, he found refuge with the Lord's people in the city of",
+            "Once upon a time, in a faraway kingdom called the land of the free, they were given the gift of the Holy Ghost. The Holy Ghost has been given for them by God, and they are given it as a gift from heaven. So the world is not to be confused with this life",
+            "Once upon a time, in a faraway kingdom, you have been sent by the God of the dead, who has sent the people into exile. The land is now under the control of the Lord, and he has sent a prophet to guide you. He is the Lord of the living.\"\n"
+        ]
+    },
+    {
+        "epsilon": 0.1,
+        "k": 20,
+        "scores": {
+            "coherence_mean": -9.508502960205078,
+            "diversity": 0.56,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, they had a great war. But then a little time passed, and the king came upon them, and said, \"Lord have mercy on us; we have come here because of that great war.\" There was also some dispute among the men about",
+            "Once upon a time, in a faraway kingdom of great power, I came to be a servant unto the great king, and unto the people of the earth, where it was said, \"The kingdom of heaven has come upon men, for the kingdom of heaven is upon them. And he will",
+            "Once upon a time, in a faraway kingdom, an extraordinary hero, and a great war hero, was born. He was the son of a noblewoman, a very handsome man, and from all the great kingdoms he was born into the world. He was a warrior, and he would kill"
+        ]
+    },
+    {
+        "epsilon": 0.3,
+        "k": 1,
+        "scores": {
+            "coherence_mean": -11.176169395446777,
+            "diversity": 0.07482993197278912,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.3,
+        "k": 3,
+        "scores": {
+            "coherence_mean": -9.674553871154785,
+            "diversity": 0.38311688311688313,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, a young man named Joram, who had been born in the land of Zor, was brought to the king of the land of Zor. The king of the land of Zor, who was a man of great wealth and power",
+            "Once upon a time, in a faraway kingdom, a man was born, a child of God, and he was called to the throne. He was called to the throne because of the power of God, because of his love for his people. He is called to the throne because of his love",
+            "Once upon a time, in a faraway kingdom, the Lord of the Rings had been a man of great wealth. The Lord of the Rings was the richest man in the universe, and he owned a fortune that he could not have dreamed of. He was also the richest man ever to be in"
+        ]
+    },
+    {
+        "epsilon": 0.3,
+        "k": 5,
+        "scores": {
+            "coherence_mean": -11.88558832804362,
+            "diversity": 0.39436619718309857,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king's daughter was a young woman, and she was not a virgin.\n\nThe queen, however, was a virgin.\n\nShe was born in the year of the king's daughter, and she was not a virgin.\n",
+            "Once upon a time, in a faraway kingdom, the king and princess of the land of Erebor, and the queen, who had been in the city of the king, and the queen of a neighbouring kingdom, were in the midst of the city.\n\nAnd the king and princess",
+            "Once upon a time, in a faraway kingdom, the Lord had given to the people a name, and the word was given to him by God. And he had given it in the name of Jesus, and the Lord gave it to him in the name of the Lord Jesus Christ.\n\n"
+        ]
+    },
+    {
+        "epsilon": 0.3,
+        "k": 10,
+        "scores": {
+            "coherence_mean": -11.580929120381674,
+            "diversity": 0.4931506849315068,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the great warrior, the great warrior, the great warrior, the great warrior, was a warrior who, in his own right, had the ability to kill. This was the first time that the great warrior had the ability to do so.\n",
+            "Once upon a time, in a faraway kingdom in the distant past, a woman was born. She was a beautiful woman, but she was also a woman who had fallen into a long, dark cycle of pain and suffering. She was called a goddess.\n\nThis woman was called Naga",
+            "Once upon a time, in a faraway kingdom, you will find a great palace, a great city and a great castle. The king is the lord of your kingdom. The king is your king. And if you fail to do what he requires of you, he will destroy you.\n\n"
+        ]
+    },
+    {
+        "epsilon": 0.3,
+        "k": 20,
+        "scores": {
+            "coherence_mean": -11.991909662882486,
+            "diversity": 0.5107913669064749,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the people who had once lived in the land knew that God, whom they called the Lord, was coming to destroy them. And they went up to him, and said, \"Who is this, O Lord?\" He answered and said, \"",
+            "Once upon a time, in a faraway kingdom, it's impossible to be certain that the world's greatest heroes are actually heroes.\n\nThis was the case in 2013, when the world of Marvel's Agents of S.H.I.E.L.D. was a little out",
+            "Once upon a time, in a faraway kingdom, the King of England, as king of the world, was called King David, who had been the king of the world and was the king of the king of the world as King David. And he called David the King of the world, who"
+        ]
+    },
+    {
+        "epsilon": 0.5,
+        "k": 1,
+        "scores": {
+            "coherence_mean": -11.176169395446777,
+            "diversity": 0.07482993197278912,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.5,
+        "k": 3,
+        "scores": {
+            "coherence_mean": -7.507748126983643,
+            "diversity": 0.20915032679738563,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the people, the king of the people, the king of the people, the king of the people, the king of the people, the king of the people, and the king of the people, the king of the people,",
+            "Once upon a time, in a faraway kingdom, the king of the world, who had been born in a land of the dead, had been born in the land of the dead. And the king of this land, who had been born in the land of the dead, had been born in",
+            "Once upon a time, in a faraway kingdom, there was a great king, and he was called the king of the people. The king of the people was the king of the people, and he was called the king of the people. And he was called the king of the people, and"
+        ]
+    },
+    {
+        "epsilon": 0.5,
+        "k": 5,
+        "scores": {
+            "coherence_mean": -12.638243357340494,
+            "diversity": 0.3288590604026846,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king and his people were called to a feast.\n\nThe feast was called the \"Great Day\", because the king had to be present at it, so he was called \"the great lord\".\n\nThe feast was called the \"",
+            "Once upon a time, in a faraway kingdom, the people had been told that the king had been slain by a dragon. The people had been told that the king had been slain by a dragon. The people had been told that the king had been slain by a dragon. The people had been",
+            "Once upon a time, in a faraway kingdom, the king of the world, who had no knowledge at all of the world, and who had no knowledge of the world's laws, and who, having no knowledge of the world's laws, and having no knowledge of the world's laws,"
+        ]
+    },
+    {
+        "epsilon": 0.5,
+        "k": 10,
+        "scores": {
+            "coherence_mean": -9.089097340901693,
+            "diversity": 0.45098039215686275,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king was anointed with the Name of Jesus Christ. This was the name given him by the apostles, and he was blessed.\n\nThe name was given to Jesus Christ by the apostles, and he was blessed. This was the name",
+            "Once upon a time, in a faraway kingdom, the king of kings came to the king of kings and said, \"I will give you this gift of the kingdom of heaven, that you may be free from bondage and from all the bondage of men.\" And he gave it to him, that",
+            "Once upon a time, in a faraway kingdom, a man was born, and he lived in a house that was so small that he could not be seen. He was not of a good kind, but was not of a good temperament. The man was a bad son, and he had no"
+        ]
+    },
+    {
+        "epsilon": 0.5,
+        "k": 20,
+        "scores": {
+            "coherence_mean": -9.730475743611654,
+            "diversity": 0.5957446808510638,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, an evil prince, called Gavros, was sent with a messenger, accompanied by four other knights, to the city of Gavros. The messenger was Gavros who gave the messenger a letter of introduction, promising to send the king",
+            "Once upon a time, in a faraway kingdom, he could say, \"Aye, my lord, I am a knight\".\n\nThen there was the time when he would ask to be knighted by his father, and his father would say, \"I am a knight of the Royal",
+            "Once upon a time, in a faraway kingdom, some of the most powerful men in the world were able to rise to power in a country where, in spite of their own good, they were still in the grip of a terrible crime that would have to be avenged.\n\nThe story"
+        ]
+    },
+    {
+        "epsilon": 0.7,
+        "k": 1,
+        "scores": {
+            "coherence_mean": -11.176169395446777,
+            "diversity": 0.07482993197278912,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.7,
+        "k": 3,
+        "scores": {
+            "coherence_mean": -11.213500340779623,
+            "diversity": 0.2,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king's son, the son of a king, was born. The king's son was the son of a king.\n\nThe king's son was the son of a king.\n\nThe king's son was the son of a",
+            "Once upon a time, in a faraway kingdom, the king of the world was a man, and he had a son, and he was called the King of the World. And he was called the King of the World, and he was called the King of the World. And the King of",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.7,
+        "k": 5,
+        "scores": {
+            "coherence_mean": -10.743624687194824,
+            "diversity": 0.3333333333333333,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, a prince was sent to take the throne from the king of the land. The prince, who was a man of great wealth, had been sent to the throne of the land by the king, and he was sent to take the throne of the",
+            "Once upon a time, in a faraway kingdom, the people of the land would be called upon to fight against the evil forces that threaten the land.\n\nIn the past few years, the people of the land have been fighting against the evil forces that threaten the land in order to protect their",
+            "Once upon a time, in a faraway kingdom, the king of a distant land, the king of a distant land, the king of a distant land, the king of a distant land, the king of a distant land, the king of a distant land, the king of a distant land,"
+        ]
+    },
+    {
+        "epsilon": 0.7,
+        "k": 10,
+        "scores": {
+            "coherence_mean": -10.398180961608887,
+            "diversity": 0.32653061224489793,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom called the Great Sea, the king was a king of the sea, and he was a king of the sea; and he was a king of the sea, and he is a king of the sea; and he is a king of the sea,",
+            "Once upon a time, in a faraway kingdom, the king of the world, the King of the World.\n\nThe King of the World\n\nThe King of the World\n\nThe King of the World\n\nThe King of the World\n\nThe King of the World\n\n",
+            "Once upon a time, in a faraway kingdom, a man of great wealth and power might be called upon to take charge of his own affairs. But the king of the people, who had been the most powerful man in the world, had been overthrown by the people of his own country."
+        ]
+    },
+    {
+        "epsilon": 0.7,
+        "k": 20,
+        "scores": {
+            "coherence_mean": -8.209776719411215,
+            "diversity": 0.45806451612903226,
+            "mauve": 0.12057801226825533
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom where the gods were all vying for power, they would be brought to the brink of war, and the gods were forced to make a deal with the king to keep them alive. If they were to die out, the world would be destroyed, and",
+            "Once upon a time, in a faraway kingdom, a man was born, and he was born to one brother, and he was born to another, and he was born to another, and he was born to another, and he was born to another, and he was born to another. And",
+            "Once upon a time, in a faraway kingdom, the Lord of the Rings was the only one who could see the light.\n\nThe Lord of the Rings: The Fellowship of the Ring is a film released on DVD in October 2012. There are two versions of the film and the first one"
+        ]
+    },
+    {
+        "epsilon": 0.9,
+        "k": 1,
+        "scores": {
+            "coherence_mean": -11.176169395446777,
+            "diversity": 0.07482993197278912,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.9,
+        "k": 3,
+        "scores": {
+            "coherence_mean": -9.43994665145874,
+            "diversity": 0.08666666666666667,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, and the king of the world, and the king of the world, and the king of the world, and the king of the world, and the king",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the kingdom of the world, the king of the kingdom of the world, and the king of the kingdom of the world, the king of",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.9,
+        "k": 5,
+        "scores": {
+            "coherence_mean": -10.623887697855631,
+            "diversity": 0.2185430463576159,
+            "mauve": 0.5182012478497631
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, and the king of the world, and the king of the world, and the king of the world, and the king of the world, and the king",
+            "Once upon a time, in a faraway kingdom, the Lord of the Rings was a man who had been born into a family of men, and who had been raised by his father's blood. He was a man who had been raised by his father's blood, and who had been raised by",
+            "Once upon a time, in a faraway kingdom, the king of the world, a man of great wealth, a man of great power, a man of great wealth, a man of great wealth, a man of great wealth, a man of great wealth, a man of great wealth, a"
+        ]
+    },
+    {
+        "epsilon": 0.9,
+        "k": 10,
+        "scores": {
+            "coherence_mean": -11.219553629557291,
+            "diversity": 0.10135135135135136,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the people, the king of the people, the king of the people, the king of the people and the king of the people, the king of the people, the king of the people, the king of the people, the",
+            "Once upon a time, in a faraway kingdom, the king of the gods, the king of the gods, the king of the gods, the king of the gods, the king of the gods, the king of the gods, the king of the gods, the king of the gods, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the"
+        ]
+    },
+    {
+        "epsilon": 0.9,
+        "k": 20,
+        "scores": {
+            "coherence_mean": -10.249184290568033,
+            "diversity": 0.16891891891891891,
+            "mauve": 0.0040720962619612555
+        },
+        "generated_texts": [
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, was a man of the best of his kind. He would have been a noble man, a man of good will, a man of good will, a man of good will, a",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+            "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the King of the world, the King of the world, the King of the world, the King of the world, the King of the world, the King of the world, the"
+        ]
+    }
+]

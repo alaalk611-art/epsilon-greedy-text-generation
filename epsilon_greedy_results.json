@@ -1,0 +1,13 @@
+{
+    "prompt": "Once upon a time, in a faraway kingdom",
+    "generated_texts": [
+        "Once upon a time, in a faraway kingdom, the people of the earth were called upon to make a covenant with God. And it was this covenant that the people of the earth made with God. And this covenant was made with God. And it was made with God. And it was made",
+        "Once upon a time, in a faraway kingdom, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the king of the world, the",
+        "Once upon a time, in a faraway kingdom, the king was in the midst of a great war. The king, who had no power to command, was in the midst of a great war. The king, who had no power to command, was in the midst of a great war."
+    ],
+    "evaluation_scores": {
+        "coherence_mean": -10.95551840464274,
+        "diversity": 0.23684210526315788,
+        "mauve": 0.5182012478497631
+    }
+}

@@ -1,0 +1,4 @@
+Dataset,Method,% div ↑,MAUVE(% ↑),coh ↑
+book,Greedy search,86,2.65,-0.336219
+wikitext,Greedy search,1.77,4.91,-0.40699464
+wikinews,Greedy search,3.55,13.96,-0.46745995

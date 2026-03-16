@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./_utlis_",
+        "./_utlis_/compute_",
+        "./_utlis_/compute_",
+        "./_utlis_/compute_",
+        "./_utlis_/compute_"
+    ]
+}
